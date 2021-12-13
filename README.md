@@ -1,2 +1,2 @@
-# dio_bootstrap
-Projeto básico utilizando o Bootstrap
+# Bootstrap
+Projeto básico utilizando o Bootstrap, para aprender seus conceitos e aplicações.
